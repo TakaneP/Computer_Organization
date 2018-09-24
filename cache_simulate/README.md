@@ -1,1 +1,3 @@
-Simulate the n-way cache with c++ codes
+Simulate the n-way 32-bit cache with c++ codes
+
+Trace.txt is provided by TA
