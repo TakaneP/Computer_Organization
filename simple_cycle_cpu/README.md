@@ -1,5 +1,7 @@
 This is the simple cycle CPU using MIPS ISA.
 
+I only upload the part I wrote.
+
 Implement function:
 R-type(add,sub,slt,and,or,beq)
 I-type(addi,slti)
