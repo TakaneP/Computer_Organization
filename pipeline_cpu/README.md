@@ -1,5 +1,6 @@
-This is the pipeline CPU using MIPS ISA.
+This is the pipeline CPU using MIPS ISA with hazard_detection and forward unit to solve hazard.
 
 I only upload the part I wrote.
 
-Implement function: R-type(add,sub,slt,and,or,beq) I-type(addi,slti) Jump lw sw jal jr
+Implement function:  ADD, ADDI, SUB, AND, OR, SLT, SLTI, LW, SW,
+MULT,BEQ, BNE, BGE, BGT
