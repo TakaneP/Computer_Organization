@@ -1,4 +1,4 @@
-This is the simple cycle CPU using MIPS ISA.
+This is the single cycle CPU using MIPS ISA.
 
 I only upload the part I wrote.
 
